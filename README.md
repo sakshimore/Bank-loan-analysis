@@ -1,1 +1,2 @@
 # Bank-loan-analysis
+This project performs analysis on the loan system that Induslnd Bank provides to different criteria of people. The factors include age, job type, marital status and housing. The visalizations are based on the survey that which candidates will be eligible for acquiring the loan and what better policies and plans can be endorsed for other loans in order to attract candidates from different criterias. 
